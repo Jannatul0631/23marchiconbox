@@ -1,0 +1,118 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.bckgrnd{
+    background-image: url(/assets/pictures/grass.jpg);
+    height: 420px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 110px;
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+
+.btn{
+    background-color: red;
+    color: azure;
+    height: 40px;
+    width: 110px;
+    border: 1px solid red;
+}
+.box1{
+    border: 1px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 30px;
+}
+.box2{
+    border: 1px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 30px;
+}
+.box3{
+    border: 1px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 30px;
+}
+.box4{
+    border: 1px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 30px;
+}
+.box5{
+    border: 1px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 30px;
+}
+.box6{
+    border: 1px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 30px;
+}
+.box7{
+    border: 1px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 30px;
+}
+.box8{
+    border: 1px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 30px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    grid-gap: 20px;
+    font-weight: 400;
+    font-family: "Winky Sans", sans-serif
+}
+
+.icn1{
+    font-size: 50px; color:blueviolet; text-align: center;
+}
+.icn2{
+    font-size: 50px; color: red; text-align: center;
+}
+.icn3{
+    font-size: 50px; color: rgb(67, 67, 235); text-align: center;
+}
+.icn4{
+    font-size: 50px; color: rgb(67, 67, 235); text-align: center;
+}
+.icn5{
+    font-size: 50px; color: blueviolet; text-align: center;
+}
+.icn6{
+    font-size: 50px; color: yellowgreen; text-align: center;
+}
+.icn7{
+    font-size: 50px; color: maroon; text-align: center;
+}
+.icn8{
+    font-size: 50px; color: green; text-align: center;
+}
+
+.txt{
+    color: black;
+    text-align: center;
+    font-size: large;
+}
